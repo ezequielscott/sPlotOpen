@@ -15,24 +15,24 @@ sPlotOpen has a global spatial extent; the spatial grain is 0.01-40,000 m². Plo
 sPlotOpen contains data on 42,677 vascular plant species.
 
 ### Archive content
-sPlotOpen_Metadata_dataset_3474.txt
-sPlotOpen_CWM_CWV.txt
-sPlotOpen_DT.txt
-sPlotOpen_header.txt
-sPlotOpen_metadata.txt
-sPlotOpen.RData
-sPlotOpen_references.bib
-Demo.pdf
+* sPlotOpen_Metadata_dataset_3474.txt
+* sPlotOpen_CWM_CWV.txt
+* sPlotOpen_DT.txt
+* sPlotOpen_header.txt
+* sPlotOpen_metadata.txt
+* sPlotOpen.RData
+* sPlotOpen_references.bib
+* Demo.pdf
 
 ### File description
-sPlotOpen_Metadata_dataset_3474.txt - File describing the dataset
-sPlotOpen_CWM_CWV.txt - Community Weighted Means and Community Weighted Variance of all vegetation plots
-sPlotOpen_DT.txt - List of species and relative cover in each vegetation plot
-sPlotOpen_header.txt - Plot level information
-sPlotOpen_metadata.txt - Plot level metadata
-sPlotOpen.RData - RData containing all tables above
-sPlotOpen_references.bib - Reference list in BibTeX format
-Demo.pdf - A Notebook illustrating how sPlotOpen data can be imported and selected in R
+* sPlotOpen_Metadata_dataset_3474.txt - File describing the dataset
+* sPlotOpen_CWM_CWV.txt - Community Weighted Means and Community Weighted Variance of all vegetation plots
+* sPlotOpen_DT.txt - List of species and relative cover in each vegetation plot
+* sPlotOpen_header.txt - Plot level information
+* sPlotOpen_metadata.txt - Plot level metadata
+* sPlotOpen.RData - RData containing all tables above
+* sPlotOpen_references.bib - Reference list in BibTeX format
+* Demo.pdf - A Notebook illustrating how sPlotOpen data can be imported and selected in R
 
 All text files use the encoding: UTF-8. 
 Please note that all .txt files should be opened as tab-delimited (not comma-delimited) text - the values in some variables are strings that contain commas.
